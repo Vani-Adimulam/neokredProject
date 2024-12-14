@@ -2,42 +2,40 @@
 This is a real-time Markdown editor using Node.js and React.This will convert Markdown text to HTML   in real-time and display the rendered HTML in a live preview pane.
 
 ### Tech Stack
-Frontend: React.js, React Markdown, Axios
-Backend: Node.js, Express.js
+- Frontend: React.js, React Markdown, Axios
+- Backend: Node.js, Express.js
 
-### Installation
+### Installation:
 #### Clone the repository:
-[Clone the Project](https://github.com/Vani-Adimulam/neokredProject.git)
+git clone [https://github.com/Vani-Adimulam/neokredProject.git]
 
 #### Install dependencies for both the backend and frontend:
 **Backend:**
 
-cd backend
-npm install
+- cd backend
+- npm install
 
 **Frontend:**
 
-cd frontend
-npm install
+- cd frontend
+- npm install
 
 #### Running the Project:
 **Start the backend server:**
 
-cd backend
-
-node server.js
+- cd backend
+- node server.js
 
 The backend server will run on http://localhost:5000.
 
 **Start the React frontend:**
 
-cd frontend
-
-npm start
+- cd frontend
+- npm start
 
 The frontend will run on http://localhost:3000.
 
-**Open [Localhost Link: ](http://localhost:3000) in your browser to access the application.**
+*Open [http://localhost:3000] in your browser to access the application.*
 
 Example:
 <!--
