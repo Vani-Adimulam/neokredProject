@@ -35,29 +35,28 @@ The backend server will run on http://localhost:5000.
 
 The frontend will run on http://localhost:3000.
 
-*Open [http://localhost:3000] in your browser to access the application.*
+Open [http://localhost:3000] in your browser to access the application.
 
 Example:
-<!--
-# Heading
-## Headin2
-### Heading3
-#### Heading4
 
-This is a Paragraph 
+`# Heading`
+`## Headin2`
+`### Heading3`
+`#### Heading4`
 
-**List of Programming Languages**
+`This is a Paragraph`
 
-- Python
-- Java
-- JavaScript
+`**List of Programming Languages**`
 
-*****************
+`- Python`
+`- Java`
+`- JavaScript`
 
-*List of Technologies*
+`*****************`
 
-1. Node.js
-2. React.js
-3. MongoDB
-4. Express.js
--->
+`*List of Technologies*`
+
+`1. Node.js`
+`2. React.js`
+`3. MongoDB`
+`4. Express.js`
