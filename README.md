@@ -40,8 +40,11 @@ Open [http://localhost:3000] in your browser to access the application.
 Example:
 
 `# Heading`
-`## Headin2`
+
+`## Heading2`
+
 `### Heading3`
+
 `#### Heading4`
 
 `This is a Paragraph`
@@ -49,7 +52,9 @@ Example:
 `**List of Programming Languages**`
 
 `- Python`
+
 `- Java`
+
 `- JavaScript`
 
 `*****************`
@@ -57,6 +62,9 @@ Example:
 `*List of Technologies*`
 
 `1. Node.js`
+
 `2. React.js`
+
 `3. MongoDB`
+
 `4. Express.js`
